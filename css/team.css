@@ -1,0 +1,28 @@
+.test{
+  height:auto;
+}
+.mdl-card{
+  width: 32%;
+  height: 37%;
+  margin-bottom: 3%;
+}
+.center{
+width: 97%;
+height: 8%;
+text-align: center;
+margin: 0px auto;
+margin-bottom:5%;
+margin-top: 5%;
+}
+.card-bg{
+  background-color: white;
+  background-size:cover;
+}
+.change-text{
+  width: 90%;
+  text-indent: 33px;
+}
+.pich{
+  height: 122px;
+  width:90%;
+}
